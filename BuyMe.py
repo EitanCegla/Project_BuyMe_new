@@ -96,6 +96,8 @@ pay_button[0].click()
 print("github descktop test")
 
 print("ggggg")
+
+print("pipline")
 # ----------------------------------------------------------------------------------------------------
 
 
