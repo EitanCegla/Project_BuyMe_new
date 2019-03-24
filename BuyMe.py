@@ -92,6 +92,11 @@ save_button = driver.find_element_by_class_name("btn-save")
 save_button.click()
 pay_button = driver.find_elements_by_xpath("//*[@id='ember1287']/div[5]/button")
 pay_button[0].click()
+print("github descktop test")
+
+
+
+
 # ----------------------------------------------------------------------------------------------------
 
 
