@@ -88,6 +88,7 @@ choose_mail[0].click()
 time.sleep(1)
 receiver_mail = driver.find_elements_by_xpath("//*[@placeholder='כתובת המייל של מקבל/ת המתנה']")
 receiver_mail[0].send_keys("Maestro@a.com")
+
 save_button = driver.find_element_by_class_name("btn-save")
 save_button.click()
 pay_button = driver.find_elements_by_xpath("//*[@id='ember1287']/div[5]/button")
