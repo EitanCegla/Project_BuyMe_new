@@ -94,6 +94,7 @@ pay_button = driver.find_elements_by_xpath("//*[@id='ember1287']/div[5]/button")
 pay_button[0].click()
 print("github descktop test")
 
+print("Jenkins test")
 # ----------------------------------------------------------------------------------------------------
 
 
